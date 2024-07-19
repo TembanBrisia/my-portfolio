@@ -1,0 +1,194 @@
+.cop{
+    width: 1350px;
+    height: 300px;
+    min-height: 200px;
+    background-image: linear-gradient(red,pink,orange,yellow);
+    text-align: center;
+}
+body{
+    
+}
+ul{
+    float: right;
+    line-height: 80px;
+}
+ul li{
+    display: inline-block;
+    padding: 0px 5px;
+
+}
+ul li a 
+{
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    padding: 7px 8px;
+
+}
+ul li a:hover{
+    background-color: hotpink;
+
+}
+ul li a .active{
+    background-color: blue;
+}
+.active{
+    background-color: blue;
+}
+h4{
+    text-align: center;
+    font-weight: lighter;
+    color: lightgray;
+    font-size: 24px;
+}
+p{
+
+    text-align: center;
+    padding: 7px;
+    margin: 4px;
+
+}
+#bran{
+    font-size: 33px;
+    font-weight: bold;
+    padding: 4px;
+}
+#pa{
+    font-size: 22px;
+    color: grey;
+    padding: 5px;
+}
+.about{
+    display: left;
+    float: left;
+    display: inline-block;
+}
+#du{
+    display: left;
+    float: left;
+    color: gray;
+    text-align: left;
+    font-size: 14px;
+    padding: 20px;
+
+}
+#pe{
+    display: left;
+    float: left;
+    color: gray;
+    text-align: left;
+    font-size: 24px;
+    padding: 12px;
+
+}
+button{
+    border-radius: 20px;
+    text-decoration: none;
+    padding: 6px;
+    
+}
+    #de{
+        text-decoration: none;
+        background-color: rgb(205, 255, 238);
+        padding: 12px;
+        font-size: 20px;
+    }
+    #li{
+        padding: 12px;
+        font-size: 20px;
+    }
+    .my{
+        
+        text-align: center;
+        font-size: 44px;
+    }
+div.gallery{
+    margin: 10px;
+    padding: 20px;
+    float: left;
+    width: 300px;
+}
+div.gallery img{
+    width: 100%;
+     height: auto;
+     align-items: center;
+     text-align: center;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+h6{
+    font-size: 17px;
+    padding: 4px;
+    margin: 5px;
+    letter-spacing: 2px;
+}
+
+
+    
+
+.column{
+    text-align: left;
+     
+    
+    padding: 20px;
+    float: left;
+    width: 300px;
+
+}
+
+
+#work{
+    text-align: left;
+    
+}
+#v{
+    text-align: left;
+}
+#o{
+    width: 100%;
+    text-align: left;
+}
+.mah{
+    background-image: linear-gradient(red,yellow,hotpink );
+    width: 1350px;
+    height: 200px;
+    text-align: left;
+     
+    
+    padding: 20px;
+    float: left;
+    
+    
+}
+ #me{
+    width: 100%;
+    text-align: left;
+    
+ } 
+ #ib{
+    text-align: left;
+    width: 100%;
+    font-size: 18px;
+}
+#pr{
+    width: 100%;
+    text-align: left;
+}
+.yu{
+    background-image: linear-gradient(yellow,white,hotpink,white);
+    width: 1350px;
+    height: 300px;
+    float: right;
+}
+button{
+    color: white;
+    background-color: green;
+}
+button:hover{
+    background-color: blue;
+}
+#ba{text-align: left;
+    float: left;
+    
+}
